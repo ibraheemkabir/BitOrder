@@ -1,0 +1,17 @@
+.header{
+    background-color: #cdbefd;
+    height: 11rem;
+    justify-content: center;
+    align-content: center;
+    padding-top: 7rem;
+    /* display: inline-grid; */
+    width: 100%;
+
+    select{
+        width: 25%;
+        border-radius: 20px;
+        padding: 15px;
+        justify-content: space-between;
+        margin-bottom: 15px;
+    }
+}
